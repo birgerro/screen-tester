@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 14
+    compileSdkVersion 15
     buildToolsVersion "21.1.2"
 
     defaultConfig {
         applicationId "birger.screentester"
-        minSdkVersion 14
-        targetSdkVersion 14
+        minSdkVersion 15
+        targetSdkVersion 15
     }
 
     buildTypes {
